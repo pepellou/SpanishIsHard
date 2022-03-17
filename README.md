@@ -1,37 +1,27 @@
 # Spanish Is Hard
-Book to help Spanish learners overcome the very first and biggest obstacles
 
-## What is exactly hard about Spanish?
+<h1 align="center">Welcome! 👋</h1>
+<p>
+  <a href="https://www.mit.edu/~amini/LICENSE.md" target="_blank">
+    <img alt="License: CC0" src="https://img.shields.io/badge/License-CC0-darkgreen.svg" />
+  </a>
+  <a href="https://twitter.com/pepellou" target="_blank">
+    <img alt="Twitter: pepellou" src="https://img.shields.io/twitter/follow/pepellou.svg?style=social" />
+  </a>
+</p>
 
- - Fonetics (ñ, rolling r, ...)
- - Accents
- - Verbs
- - Grammatical gender --> *not* semantic gender, forget about gender. Nouns define the gender.
- - false friends (realize, actually, introduce, ...)
+> Book to help Spanish learners overcome the very first and biggest obstacles
 
-## What are some misconceptions about Spanish?
+## Building...
 
- - "I will never master the fonetics"
- - 
+This repo is on a very early stage, but it'll very soon include:
 
-## How does Spanish grammar compare to English grammar?
+ - Outline of chapters
+ - Compiler
 
+## Come help
 
-## Some clues on Romance languages for English speakers
+The main work is being organized in a discord server.
 
- - Gramatical gender is central
-
-## General advice on learning languages
-
- - Spaced repetition
- - Vocabulary is more than just words
- - Sustainable pace learning vocabulary
- - Fonetics first
- - Grammar not so important
-
-
-## "Funny" idioms or expressions
-
-- Tener mala leche
-- Me cago en ...
-- 
+If you're an English speaker learning Spanish, come help. Your feedback is very necessary.
+[Join us here](https://discord.gg/NG3At4hh).
