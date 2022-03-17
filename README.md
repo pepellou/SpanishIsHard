@@ -4,6 +4,7 @@ Book to help Spanish learners overcome the very first and biggest obstacles
 ## What is exactly hard about Spanish?
 
  - Fonetics (ñ, rolling r, ...)
+ - Accents
  - Verbs
  - Grammatical gender --> *not* semantic gender, forget about gender. Nouns define the gender.
  - false friends (realize, actually, introduce, ...)
