@@ -1,0 +1,713 @@
+.chapter {
+    display: block;
+    font-size: 1.375em;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 200pt 0 1pt;
+    padding: 0;
+    color: #434343;
+    font-family: "Roboto", serif;
+    font-weight: bold;
+}
+.main_title {
+    margin: 200pt 0 1pt;
+    text-align: center;
+}
+.author_name {
+    display: block;
+    font-family: serif;
+    font-size: 0.875em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 20pt 0 1pt;
+    padding: 0
+    }
+.copyright_image {
+    display: block;
+    font-family: serif;
+    font-size: 0.875em;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: justify;
+    margin: 60pt 0 1pt;
+    padding: 0
+    }
+.copyright_text {
+    font-family: "Roboto", serif;
+    display: block;
+    font-size: 0.65em;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.part {
+    font-family: "Roboto", serif;
+    color: #434343;
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    margin: 150pt 0 1pt;
+    padding: 0;
+    }
+.part.top {
+    margin: 20pt 0 20pt;
+}
+.part_subtitle {
+    font-family: "Roboto", serif;
+    color: #434343;
+    display: block;
+    font-size: 1.2em;
+    font-weight: normal;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    margin: 20pt 0 1pt;
+    padding: 0;
+    }
+.link_part, .link_chapter {
+    width: 80%;
+    margin: 0 auto;
+    color: #434343;
+}
+.link_part {
+    margin-top: 25pt;
+    margin-bottom: 5pt;
+    font-size: 1.1em;
+    font-weight: bold
+}
+.link_chapter {
+    margin-top: 5pt;
+    margin-bottom: 5pt;
+    font-size: 1em;
+}
+.link_part a, .link_chapter a {
+    color: #434343;
+    font-family: "Roboto", serif;
+    text-decoration: none;
+}
+.page_number {
+    float: right;
+}
+.block_ {
+    display: block;
+    font-family: "Arial", serif;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_1 {
+    display: block;
+    font-family: "Arial", serif;
+    line-height: 2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: justify;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_2 {
+    display: block;
+    font-family: "Arial", serif;
+    line-height: 2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0 0 1pt 144pt;
+    padding: 0
+    }
+.block_3 {
+    display: block;
+    font-family: "Arial", serif;
+    line-height: 2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_4 {
+    display: block;
+    font-family: serif;
+    font-size: 0.875em;
+    line-height: 2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_5 {
+    display: block;
+    font-family: serif;
+    font-size: 0.875em;
+    line-height: 1.2;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_6 {
+    display: block;
+    font-family: "Arial", serif;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_7 {
+    display: block;
+    font-size: 0.75em;
+    text-align: center;
+    margin: 0;
+    padding: 0
+    }
+.block_8 {
+    display: block;
+    font-family: serif;
+    font-size: 0.875em;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: justify;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_9 {
+    display: block;
+    font-family: "Arial", serif;
+    page-break-inside: avoid;
+    text-align: justify;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_10 {
+    display: block;
+    font-family: "Arial", serif;
+    page-break-inside: avoid;
+    text-align: left;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_11 {
+    display: block;
+    font-family: "Arial", serif;
+    page-break-inside: avoid;
+    text-align: center;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_12 {
+    color: #434343;
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 1.2;
+    page-break-inside: avoid;
+    text-align: center;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_13 {
+    display: block;
+    font-family: serif;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_14 {
+    display: block;
+    font-family: "Arial", serif;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_15 {
+    display: block;
+    font-family: serif;
+    page-break-inside: avoid;
+    text-indent: 0;
+    margin: 0 112pt 1pt 90pt;
+    padding: 0
+    }
+.block_16 {
+    background-color: transparent;
+    border-bottom-style: none;
+    border-bottom-width: 1pt;
+    display: block;
+    font-family: "Arial", serif;
+    page-break-inside: avoid;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 112pt 1pt 90pt;
+    padding: 0
+    }
+.block_17 {
+    background-color: transparent;
+    display: block;
+    font-family: serif;
+    page-break-inside: avoid;
+    text-align: left;
+    text-indent: 0;
+    margin: 0 112pt 1pt 90pt;
+    padding: 0
+    }
+.block_18 {
+    display: block;
+    font-family: serif;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 1pt 90pt;
+    padding: 0
+    }
+.block_19 {
+    background-color: transparent;
+    border-bottom-style: none;
+    border-bottom-width: 1pt;
+    display: block;
+    font-family: serif;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 1pt 90pt;
+    padding: 0
+    }
+.block_20 {
+    background-color: transparent;
+    display: block;
+    font-family: serif;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 1pt 90pt;
+    padding: 0
+    }
+.block_21 {
+    display: block;
+    font-family: "Arial", serif;
+    page-break-inside: avoid;
+    text-align: center;
+    text-indent: 0;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_22 {
+    display: block;
+    font-family: serif;
+    page-break-inside: avoid;
+    text-indent: 0;
+    margin: 0 0 1pt 90pt;
+    padding: 0
+    }
+.block_23 {
+    display: block;
+    font-family: "Open Sans", serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_24 {
+    display: block;
+    font-family: "Open Sans", serif;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: center;
+    text-indent: 36pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_25 {
+    color: #434343;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: center;
+    text-indent: 36pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_26 {
+    display: block;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_27 {
+    display: block;
+    font-family: "Arial", serif;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_28 {
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_29 {
+    color: #434343;
+    display: block;
+    font-size: 1.5em;
+    font-weight: bold;
+    line-height: 2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: justify;
+    margin: 250pt 0 10pt;
+    padding: 0
+    }
+.block_30 {
+    display: block;
+    font-family: serif;
+    font-size: 0.875em;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_31 {
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_32 {
+    display: block;
+    font-family: "Open Sans", serif;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_33 {
+    display: block;
+    font-family: serif;
+    font-size: 1.375em;
+    font-weight: normal;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 200pt 0 1pt;
+    padding: 0
+    }
+.block_34 {
+    display: block;
+    font-style: italic;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_35 {
+    display: block;
+    font-family: serif;
+    font-size: 1.375em;
+    font-weight: normal;
+    line-height: 2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 200pt 0 1pt;
+    padding: 0
+    }
+.block_36 {
+    display: block;
+    font-family: "Open Sans", serif;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 200pt 0 1pt;
+    padding: 0
+    }
+.block_37 {
+    display: block;
+    font-family: serif;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_38 {
+    display: block;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_39 {
+    display: block;
+    font-family: serif;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_40 {
+    display: block;
+    font-family: "Open Sans", serif;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_41 {
+    color: #434343;
+    display: block;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 200pt 0 1pt;
+    padding: 0
+    }
+.block_42 {
+    background-color: transparent;
+    border-bottom-style: none;
+    border-bottom-width: 1pt;
+    display: block;
+    font-family: "Arial", serif;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_43 {
+    background-color: transparent;
+    display: block;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_44 {
+    display: block;
+    font-family: "Open Sans", serif;
+    font-size: 1.375em;
+    font-weight: bold;
+    line-height: 2;
+    page-break-after: avoid;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_45 {
+    display: block;
+    font-family: "Arial", serif;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_46 {
+    display: block;
+    font-family: "Arial", serif;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 36pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_47 {
+    display: block;
+    font-family: serif;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 0;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.block_48 {
+    display: block;
+    line-height: 2;
+    page-break-inside: avoid;
+    text-align: justify;
+    text-indent: 72pt;
+    margin: 0 0 1pt;
+    padding: 0
+    }
+.calibre {
+    display: block;
+    font-family: "Roboto", serif;
+    font-size: 1em;
+    line-height: 1.2;
+    padding-left: 0;
+    padding-right: 0;
+    margin: 0 5pt
+    }
+.calibre1 {
+    height: 83.7pt;
+    line-height: 1.2;
+    width: 240pt
+    }
+.calibre2 {
+    display: block;
+    height: 35.6pt;
+    line-height: 1.2;
+    margin-left: auto;
+    margin-right: auto;
+    width: 31.1pt
+    }
+.calibre3 {
+    display: block
+    }
+.calibre4 {
+    font-style: italic
+    }
+.calibre5 {
+    white-space: pre-wrap
+    }
+.calibre6 {
+    display: block;
+    margin: 0;
+    padding: 0
+    }
+.calibre7 {
+    display: block
+    }
+.tab {
+    white-space: pre-wrap
+    }
+.text_ {
+    font-family: "Roboto", serif;
+    font-size: 1.71429em;
+    font-weight: bold;
+    line-height: 1.2
+    }
+.text_1 {
+    font-family: "Arial", serif;
+    font-size: 1.14286em
+    }
+.text_2 {
+    font-family: "Roboto", serif;
+    font-size: 1.42857em;
+    line-height: 1.2
+    }
+.text_3 {
+    font-family: "Arial", serif;
+    font-size: 1.14286em;
+    line-height: 1.2
+    }
+.text_4 {
+    font-family: "Roboto", serif;
+    font-size: 0.85714em
+    }
+.text_5 {
+    font-family: "Roboto", serif;
+    font-size: 1.57143em;
+    line-height: 1.2
+    }
+.text_6 {
+    font-family: "Arial", serif
+    }
+.text_7 {
+    font-family: "Roboto", serif;
+    font-weight: bold
+    }
+.text_8 {
+    color: #434343;
+    font-family: "Roboto", serif;
+    font-weight: bold;
+    text-decoration: none
+    }
+.text_9 {
+    color: #434343;
+    font-family: "Roboto", serif;
+    font-weight: bold
+    }
+.text_10 {
+    font-family: "Roboto", serif;
+    text-decoration: none
+    }
+.text_11 {
+    color: #434343;
+    font-weight: bold
+    }
+.text_12 {
+    color: #434343;
+    font-family: "Roboto", serif;
+    font-size: 1.57143em;
+    line-height: 1.2
+    }
+.text_13 {
+    font-family: "Open Sans", serif;
+    font-weight: bold
+    }
+.text_14 {
+    font-family: "Roboto", serif
+    }
+.text_15 {
+    font-family: "Roboto", serif;
+    font-style: italic
+    }
