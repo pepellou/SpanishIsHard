@@ -33,3 +33,8 @@ The latter is my preferred method, because manual interaction reinforces memory 
 You can go over your flashcards and make piles with your failures. Make sure to start reviewing failures each day.
 
 In no time you'll be remembering words you saw a week or two ago. Then you'll know you're storing them in the right place.
+
+---
+
+Previous: [Misconceptions](misconceptions.html)
+Next: [General tips](general_tips.html)

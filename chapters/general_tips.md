@@ -18,4 +18,7 @@ In the other hand, the more you delay speaking the harder it'll become.
 Even if you're silently reading, you're internally wording what you read.
 The sooner you start wording things "the right way" (or let's call it a "decent-enough way"), the easier it'll be to keep adding on top of that.
 
-## 
+---
+
+Previous: [Vocabulary](vocabulary.html)
+Next: [Reasons to quit](reasons_to_quit.html)

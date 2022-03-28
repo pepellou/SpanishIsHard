@@ -23,3 +23,8 @@ Some practical questions you can use instead when facing something shocking coul
 
  - Can I find more examples like this?
  - How can I remember this?
+
+---
+
+Previous: [Why can't I learn Spanish?](intro.html)
+Next: [Vocabulary](vocabulary.html)

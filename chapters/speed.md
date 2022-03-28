@@ -17,3 +17,8 @@ Your usual book to learn Spanish will not explain this, but it's by far the most
 My advice for you is that you bear this in mind and put special attention to it.
 The sooner you practice speaking the words like that, the faster your brain will get used to listening to them the same way.
 And if you're a grammar nerd, you can practice splitting syllables in Spanish as an exercise that will help you (the rules are much less ambiguous than in English, so you'll actually feel rewarded soon).
+
+---
+
+Previous: [The big challenges](the_big_challenges.html)
+Next: [It's too similar](similar_words.html)

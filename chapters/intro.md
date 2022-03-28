@@ -11,3 +11,7 @@ Learning a language is not an easy challenge, but it can be easier than most lea
 Follow me on this quick journey through the real obstacles you'll face, tricks and shortcuts that other books don't tell you.
 
 Let's begin!
+
+---
+
+Next: [Misconceptions](misconceptions.html)

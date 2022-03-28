@@ -17,3 +17,8 @@ Forget any pre-judice you have. These are going to be your biggest challenges:
 Everything else will not be as hard as you think (and we will see it also in further chapters).
 These big 4 however... oh yes, you will struggle with these.
 But it's best if I tell you up-front and we understand them a bit so at least you have a plan.
+
+---
+
+Previous: [Reasons to quit](reasons_to_quit.html)
+Next: [It's too fast](speed.html)
