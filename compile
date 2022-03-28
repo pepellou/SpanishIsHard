@@ -39,10 +39,12 @@ md2html reasons_to_quit "Reasons to quit"
 md2html the_big_challenges "The big challenges"
 md2html speed "It's too fast"
 md2html similar_words "Similar words"
-md2html dialects "Dialect"
+md2html dialects "Dialects"
 
 md2html accents "Accents"
 md2html gender "Grammatical gender"
+
+md2html index "Table of contents"
 
 
 # HTML to EPUB

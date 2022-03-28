@@ -1,6 +1,4 @@
-# Spanish is Hard - Gender
-
-## Gender
+# Gender
 
 You know that many words in Spanish have a gender.
 It turns out that "house" ("casa") is a she, but "building" ("edificio") is a "he".
