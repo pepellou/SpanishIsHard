@@ -1,0 +1,58 @@
+#!/bin/bash
+#
+dir="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+book_name=spanish_is_hard
+calibre=/Applications/calibre.app/Contents/MacOS/ebook-convert
+ebook=${dir}/ebook
+
+function md2html {
+	chapter=$1
+	title=$2
+
+	pandoc ${dir}/chapters/${chapter}.md -f markdown -t html -s -o ${ebook}/html/${chapter}.html --metadata title="${title}"
+}
+
+function html2epub {
+	mkdir -p ${ebook}/out
+	rm -f ${ebook}/out/${book_name}.epub
+	cd ${ebook}/src && zip -0 -X ${book_name}.epub mimetype
+	cd ${ebook}/src && zip -r ${book_name}.epub META-INF fonts images *.html content.opf *.css toc.ncx
+	mv ${ebook}/src/${book_name}.epub ${ebook}/out/${book_name}.epub
+}
+
+function epub2pdf {
+	${calibre} ${ebook}/out/${book_name}.epub ${ebook}/out/${book_name}.pdf
+}
+
+
+# Markdown to HTML
+###################
+
+md2html intro "Intro"
+
+md2html misconceptions "Misconceptions"
+md2html vocabulary "Vocabulary"
+md2html general_tips "General tips"
+md2html reasons_to_quit "Reasons to quit"
+
+md2html the_big_challenges "The big challenges"
+md2html speed "It's too fast"
+md2html similar_words "Similar words"
+md2html dialects "Dialect"
+
+md2html accents "Accents"
+md2html gender "Grammatical gender"
+
+
+# HTML to EPUB
+###################
+
+# TODO: use the actual HTML from the previous step
+
+html2epub
+
+
+# EPUB to PDF
+###################
+epub2pdf
