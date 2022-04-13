@@ -10,7 +10,7 @@ function md2html {
 	chapter=$1
 	title=$2
 
-	pandoc ${dir}/chapters/${chapter}.md -f markdown -t html -s -o ${ebook}/html/${chapter}.html --metadata title="${title}"
+	pandoc ${dir}/chapters/${chapter}.md -f markdown -t html -s -o ${ebook}/html/${chapter}.html
 }
 
 function html2epub {

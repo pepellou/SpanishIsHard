@@ -1,3 +1,5 @@
+::: Chapter
+
 # Gender
 
 You know that many words in Spanish have a gender.
@@ -15,6 +17,8 @@ It's not a semantic inflection, just a grammatical one, it has no meaning.
 Let's call it **bender** or **ender**.
 
 ...
+
+:::
 
 ---
 

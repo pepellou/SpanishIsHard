@@ -1,3 +1,5 @@
+::: Chapter
+
 # Introduction
 
 You want to learn Spanish. But it's hard.
@@ -11,6 +13,8 @@ Learning a language is not a simple challenge, but it can be smoother than most 
 Follow me on this quick journey through the real obstacles you'll face, tricks and shortcuts that other books won't tell you.
 
 Let's begin!
+
+:::
 
 ---
 

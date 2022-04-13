@@ -1,3 +1,5 @@
+::: Chapter
+
 # Vocabulary
 
 Reading and writing words, as well as knowing their meaning, may not be as challenging as speaking them out loud or understanding them when listening.
@@ -40,6 +42,8 @@ In no time you'll be remembering words you saw a week or two ago.
 And that's when you'll know you're storing them in the right place in your brain.
 
 Even just 1 or 2 minutes a day can be very effective if you manage to keep doing it every day.
+
+:::
 
 ---
 

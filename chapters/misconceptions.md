@@ -1,3 +1,5 @@
+::: Chapter
+
 # Misconceptions
 
 The more languages you learn, the easier it is to learn a new language.
@@ -23,6 +25,8 @@ Some practical questions you can use instead when facing something shocking coul
 
  - Can I find more examples like this?
  - How can I remember this?
+
+:::
 
 ---
 

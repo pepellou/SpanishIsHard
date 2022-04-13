@@ -1,3 +1,5 @@
+::: Chapter
+
 # General tips
 
 I gave you 2 tips already. Let me summarize them for you:
@@ -42,6 +44,8 @@ Instead I have on my list things like "I am a chess player" or "I like math".
 You can get to be very specific with the topics you like and that will not only be an extra of motivation for you to learn, but you can also make a good impression very soon.
 Imagine that after a week of learning the language you get to say "I am proud of my gardening skills" (or any other specific thing you come up with).
 Any listener would think you've been learning the language for a year!
+
+:::
 
 ---
 

@@ -1,3 +1,5 @@
+::: Chapter
+
 # Reasons to quit
 
 I don't want you to quit.
@@ -51,6 +53,8 @@ This may not be the most common cause of quitting (and in my case I honestly nev
 An important thing to remember is that if you're struggling that's already a win.
 It means you're making the effort and that's just the recipe to succeed.
 You'll make a lot of mistakes, every day, but that's ok - it's just the way to learn.
+
+:::
 
 ---
 

@@ -1,3 +1,5 @@
+::: Chapter
+
 # Why is this so tricky?
 
 Let's say you encounter the Spanish word "cara".
@@ -19,6 +21,8 @@ All this lexical ambiguity and confusion is not a problem in the language you al
 
 There's no way around it. You'll have to learn word by word, and sometimes meaning by meaning.
 Just embrace the differences and they will help you remember them.
+
+:::
 
 ---
 

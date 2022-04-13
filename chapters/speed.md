@@ -1,3 +1,5 @@
+::: Chapter
+
 # Spanish is spoken too fast
 
 I have to be honest.
@@ -20,6 +22,8 @@ If I told you to start with phonetics since the beginning (and I did tell you th
 The sooner you practice speaking the words like that, the faster your brain will get used to listening to them the same way.
 
 And if you're a grammar nerd, you can practice splitting syllables in Spanish as an exercise that will help you (the rules are much less ambiguous than in English, so you'll actually feel rewarded soon).
+
+:::
 
 ---
 

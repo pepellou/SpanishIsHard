@@ -1,3 +1,5 @@
+::: Chapter
+
 # The big challenges
 
 We can't know what we don't know.
@@ -23,6 +25,8 @@ Everything else (spelling, gender, omitting pronouns, accents, etc) will not be 
 But those 4 challenges... oh yes, you will struggle with them.
 
 In any case, it's best if I tell you up-front about it, so let's understand them a bit to at least have a plan.
+
+:::
 
 ---
 
