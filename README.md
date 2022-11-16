@@ -18,10 +18,20 @@ This repo is on a very early stage, but it'll very soon include:
 
  - Outline of chapters
  - Compiler
+ - Notes (Zettelkasten Method)
 
 ## Come help
 
-The main work is being organized in a discord server.
+Even though this is a personal quest and a highly opinionated work
+(that is, content decisions are currently being made by one single brain and we're not looking for more at the moment),
+all the help is appreciated.
 
-If you're an English speaker learning Spanish, come help. Your feedback is very necessary.
-[Join us here](https://discord.gg/NG3At4hh).
+You can help if:
+
+ - You're an English speaker learning Spanish (your feedback is very valuable)
+ - You're a designer, editor or in general you have an opinion or suggestions to improve
+ - You're just a person with any valuable feedback at all :-)
+
+The main work is being done in notes so far (brainstorming stage).
+
+Contact me at [https://twitter.com/pepellou](@pepellou) for any feedback.
