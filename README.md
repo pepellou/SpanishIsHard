@@ -34,4 +34,4 @@ You can help if:
 
 The main work is being done in notes so far (brainstorming stage).
 
-Contact me at [https://twitter.com/pepellou](@pepellou) for any feedback.
+Contact me at [@pepellou](https://twitter.com/pepellou) for any feedback.
